@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+a{
+    text-decoration: none;
+    margin: 15px;
+    font-size: 1.6rem;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* https://platzi.com/clases/3102-portafolio-web-2022/49304-presentacion-del-reto-primera-sesion-2-de-mayo/
+40:00
+*/
